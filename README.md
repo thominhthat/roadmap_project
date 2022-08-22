@@ -38,38 +38,57 @@
 ## **2. Phân chia bố cục và các chức năng chính**
 ### Trang chủ
 > #### Trang chủ chia làm 4 phần: Top, Content 1, Content 2 và Bot
+> 
 > #### Top gồm 5 chức năng: 
+> 
 ![The top.!](/img/Top_edited.png "Top - 5 functions")
+>
 > Chức năng 1: Đăng ký, năng nhập, phân quyền
+> 
 > Chức năng 2: Hiển thị danh sách user đã theo dõi
+> 
 > Chức năng 3: Hiển thị thông báo cho user
+> 
 > Chức năng 4: Tìm kiếm
+> 
 > Chức năng 5: Hiển thị những truyện nổi bật gần đây trên 1 slide lớn
+> 
 
 > #### Content 1
+> 
 ![The content1.!](/img/content1_edited.png "Content1 - 2 functions")
 > Chức năng 6: Hiển thị 20 truyện mới cập nhật gần nhất trên slide
+> 
 > Chức năng 7: Hiển thị toàn bộ truyện theo thời gian truyện được cập nhật
 
 > #### Content 2
+> 
 ![The content2.!](/img/content1_edited.png "Content2 - 1 function")
 > Chức năng 8: Hiển thị 20 truyện nổi bật trong tuần, tháng, mọi lúc trên slide
+> 
 
 > #### Bot
+> 
 ![The bot.!](/img/bot_edited.png "bot - 1 function")
 > Chức năng 9: Hiển thị những nhóm dịch truyện có đóng góp hàng đầu
+> 
 
 ### Trang thông tin truyện 
 ![The detail1.!](/img/detail1_edited.png "detail1 - 1 function")
 > Chức năng 10: Hiển thị toàn bộ thông tin liên quan đến truyện
+> 
 
 ### Trang đọc truyện (chap cụ thể)
 ![The detail2_top.!](/img/detail2_top_edited.png "detail2_top - 4 function")
 ![The detail2_bot.!](/img/detail2_bot_edited.png "detail2_bot - 1 function")
 > Chức năng: 11: Hiển thị tên chap và nút chuyển chap
+> 
 > Chức năng 12: Bình luận
+> 
 > Chức năng 13: Hiển thị thanh cuộn đánh dấu vị trí đọc
+> 
 > Chức năng 14: Chuyển chap tiến lùi và lên đầu trang
+> 
 
 ## **3. Roadmap chi tiết**
 ![The roadmap.drawio.!](/img/roadmap.drawio.png "roadmap.drawio - 1 map")
